@@ -10,6 +10,14 @@ export const menu: CoreMenu[] = [
     role: ['Basic']
   },
   {
+    id: 'meters',
+    title: 'Meters',
+    type: 'item',
+    icon: 'home',
+    url: 'meters',
+    role: ['Basic']
+  },
+  {
     id: 'accounts',
     title: 'Accounts',
     type: 'item',
